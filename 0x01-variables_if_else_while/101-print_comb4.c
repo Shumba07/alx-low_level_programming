@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - main function
+ * main - main function prints all possible different combinations of three digits
  * Retunr: Always 0
  */
 int main(void)
