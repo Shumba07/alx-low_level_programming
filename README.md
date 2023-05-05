@@ -1,1 +1,1 @@
-0x00 C hello world file
+0x14-bit_manipulation file
